@@ -1,0 +1,9 @@
+org\mykola\customer\CustomerRegistrationRequest.class
+org\mykola\customer\Customer.class
+org\mykola\customer\Customer$CustomerBuilder.class
+org\mykola\customer\CustomerApplication.class
+org\mykola\customer\FraudCheckResponse.class
+org\mykola\customer\CustomerConfig.class
+org\mykola\customer\CustomerController.class
+org\mykola\customer\CustomerService.class
+org\mykola\customer\CustomerRepository.class

@@ -1,0 +1,7 @@
+org\mykola\fraud\FraudApplication.class
+org\mykola\fraud\FraudCheckHistory$FraudCheckHistoryBuilder.class
+org\mykola\fraud\FraudController.class
+org\mykola\fraud\FraudCheckHistory.class
+org\mykola\fraud\FraudCheckResponse.class
+org\mykola\fraud\FraudCheckService.class
+org\mykola\fraud\FraudCheckHistoryRepository.class
